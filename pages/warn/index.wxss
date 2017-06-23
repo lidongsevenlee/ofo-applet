@@ -1,0 +1,75 @@
+/* pages/wallet/index.wxss */
+.choose{
+	background-color: #fff;
+}
+.choose-grids{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	padding: 50rpx;
+}
+.choose-grids .grid{
+	width: 45%;
+	height: 100rpx;
+	margin-top: 36rpx;
+	border-radius: 6rpx;
+	line-height: 100rpx;
+	text-align: center;
+	border: 2rpx solid #b9dd08;
+}
+.choose-grids .grid:first-child,
+.choose-grids .grid:nth-of-type(2){
+	margin-top: 0;
+}
+.action .action-photo{
+	background-color: #fff;
+	padding: 40rpx 0px 40rpx 50rpx;
+}
+.action .action-photo image{
+	position: relative;
+	display: inline-block;
+	width: 120rpx;
+	height: 120rpx;
+	overflow: visible;
+	margin-left: 25rpx;
+}
+.action .action-photo image icon.del{
+	display: block;
+	position: absolute;
+	top: -20rpx;
+	right: -20rpx;
+}
+.action .action-photo text.add{
+	display: inline-block;
+	width: 120rpx;
+	height: 120rpx;
+	line-height: 120rpx;
+	text-align: center;
+	font-size: 24rpx;
+	color: #ccc;
+	border: 2rpx dotted #ccc;
+	margin-left: 25rpx;
+	vertical-align: top;
+}
+.action .action-input{
+	padding-left: 50rpx;
+	margin-top: 30rpx;
+	background-color: #fff;
+}
+.action .action-input input{
+	width: 90%;
+	padding-top: 40rpx;
+	padding-bottom: 40rpx;
+}
+.action .action-input input:first-child{
+	border-bottom: 2rpx solid #ccc;
+	padding-bottom: 20rpx;
+}
+.action .action-input input:last-child{
+	padding-top: 20rpx;
+}
+.action .action-submit{
+	padding: 40rpx 40rpx;
+	background-color: #f2f2f2;
+}
+

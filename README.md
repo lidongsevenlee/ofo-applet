@@ -1,17 +1,13 @@
 ## 运行截图
-![1.首页地图页](http://upload-images.jianshu.io/upload_images/2795762-397166cf2df4cd93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![2.维修报障页](http://upload-images.jianshu.io/upload_images/2795762-5b0f0b7ef9339251.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![3.登录页](http://upload-images.jianshu.io/upload_images/2795762-e73202530e5b0673.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![4.钱包余额页](http://upload-images.jianshu.io/upload_images/2795762-fab144940facabf5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![5.充值页](http://upload-images.jianshu.io/upload_images/2795762-aa044057a6174d28.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![6.获取了密码页](http://upload-images.jianshu.io/upload_images/2795762-2071a2d3c6344479.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![7.计费页](http://upload-images.jianshu.io/upload_images/2795762-bb0d4be142deb156.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<img src="http://oht7mjuah.bkt.clouddn.com/%E9%A6%96%E9%A1%B5.png" width="270" height="480"/>
+<img src="http://oht7mjuah.bkt.clouddn.com/timer-over.png" width="270" height="480" />
+<img src="http://oht7mjuah.bkt.clouddn.com/timer.png" width="270" height="480" />
+<img src="http://oht7mjuah.bkt.clouddn.com/wallet.png" width="270" height="480" />
+<img src="http://oht7mjuah.bkt.clouddn.com/charge.png" width="270" height="480" />
+<img src="http://oht7mjuah.bkt.clouddn.com/me.png" width="270" height="480" />
+<img src="http://oht7mjuah.bkt.clouddn.com/password.png" width="270" height="480"/>
+<img src="http://oht7mjuah.bkt.clouddn.com/warn-fill.png" width="270" height="480"/>
+<img src="http://oht7mjuah.bkt.clouddn.com/mark.png" width="270" height="480"/>
 
 ## 本地运行
 ~~~
