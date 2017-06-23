@@ -21,3 +21,5 @@ git clone https://github.com/MiceLiD/ofo-applet.git
 
 ## 提示
 调试看效果请用真机，开发者工具定位有bug
+
+[本小程序教程链接](http://www.jianshu.com/p/68e3b8927a77)
